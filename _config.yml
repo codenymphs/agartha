@@ -1,2 +1,6 @@
 plugins:
   - jemoji
+
+title: Agartha
+description: iniciação à ciência sagrada
+theme: jekyll-theme-cayman
