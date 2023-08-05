@@ -1,3 +1,4 @@
+<center>
 # Introdução à Ciência Sagrada
 Programa Agartha 
  
@@ -12,5 +13,4 @@ Programa Agartha
 **Federico González**  
 All rights reserved.  
 *Tradução em português: Igor Silva*
-
-
+</center>
